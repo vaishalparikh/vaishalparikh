@@ -2,7 +2,7 @@
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16409581)](https://stackoverflow.com/users/16409581/nitin02) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=being-nitin"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16409581)](https://stackoverflow.com/users/19442177/vaishal-parikh) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=being-nitin"/>|
 |---|---|
  
  ---
