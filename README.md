@@ -10,7 +10,7 @@
 - 👨‍🎓I am Vaishal Parikh, currently embarking on my engineering journey from  Charusat University Changa , Gujarat.<br/>
 - 💻I am a **full-stack web developer** as well as **Competitive Programmer**<br/>
 - 1000+ Followers on LinkedIn😎😇
-- 1⭐ coder on **CodeChef**<br/>
+- 2⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 - 🔭 I’m currently working on a fullstack app.<br/>
@@ -46,7 +46,7 @@
 
 ## Connect with me  
 <div align="center">
- <a href="https://www.linkedin.com/in/nitin-singh-%F0%9F%87%AE%F0%9F%87%B3-68a4361b8/" target="_blank">
+ <a href="https://www.linkedin.com/in/vaishalparikh/ target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/being-nitin" target="_blank">
