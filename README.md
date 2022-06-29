@@ -69,8 +69,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=BMI_Calculator&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=papertax.github.io&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=Dice-game&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=Drum-kit&show_icons=true&theme=great-gatsby">
 </div>
  
 <div align="center">
@@ -78,9 +76,9 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/being-nitin.svg?style=social&label=Follow"></img>
+<img src="https://img.shields.io/github/followers/vaishalparikh.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/being-nitin"></img>
+<img src="https://gpvc.arturio.dev/vaishalparikh"></img>
 </div>
 
 ---
