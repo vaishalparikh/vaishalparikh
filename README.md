@@ -7,13 +7,12 @@
  
  ---
  
-- 👨‍🎓I am Nitin Singh, currently embarking on my engineering journey from  Gla University Mathura , Uttar Pradesh.<br/>
-- 💻I am a **full-stack web developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
+- 👨‍🎓I am Vaishal Parikh, currently embarking on my engineering journey from  Charusat University Changa , Gujarat.<br/>
+- 💻I am a **full-stack web developer** as well as **Competitive Programmer**<br/>
 - 1000+ Followers on LinkedIn😎😇
 - 1⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-- I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
 - 🔭 I’m currently working on a fullstack app.<br/>
 - 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
 
