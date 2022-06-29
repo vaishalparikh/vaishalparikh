@@ -41,7 +41,7 @@
 </p>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=being-nitin&show_icons=true&theme=cobalt"></img>
+   <img src="https://github-readme-stats.vercel.app/api?username=vaishalparikh&show_icons=true&theme=cobalt"></img>
 </div>
 
 ## Connect with me  
