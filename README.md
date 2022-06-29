@@ -67,7 +67,8 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=being-nitin&repo=nitin-portfolio&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=
+BMI_Calculator&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=being-nitin&repo=Simon-Game&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=being-nitin&repo=Dice-game&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=being-nitin&repo=Drum-kit&show_icons=true&theme=great-gatsby">
@@ -85,4 +86,4 @@
 
 ---
 
-Leave a ⭐ from [here](https://github.com/being-nitin/being-nitin) if you like 😁
+Leave a ⭐ from [here](https://github.com/vaishalparikh/vaishalparikh) if you like 😁
