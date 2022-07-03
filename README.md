@@ -70,10 +70,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=BMI_Calculator&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=papertax.github.io&show_icons=true&theme=great-gatsby"> 
 </div>
- 
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/vaishalparikh.svg?style=social&label=Follow"></img>
