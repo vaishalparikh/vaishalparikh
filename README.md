@@ -13,8 +13,8 @@
 - 2⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-- 🔭 I’m currently working on a fullstack app.<br/>
-- 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
+- 🔭 I’m currently working on Frontend Developer.<br/>
+- 🌱 I’m currently learning phaser.js(PWA's).<br/>
 
 <h1>Technical Skills 🛠</h1>
 
