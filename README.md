@@ -72,8 +72,6 @@
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/vaishalparikh.svg?style=social&label=Follow"></img>
-
 <img src="https://gpvc.arturio.dev/vaishalparikh"></img>
 </div>
 
