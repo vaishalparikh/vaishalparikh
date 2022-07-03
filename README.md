@@ -72,6 +72,7 @@
 </div>
 
 <div align="center">
+                   
 <img src="https://gpvc.arturio.dev/vaishalparikh"></img>
 </div>
 
