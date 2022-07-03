@@ -14,7 +14,7 @@
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 - 🔭 I’m currently working on Frontend Developer.<br/>
-- 🌱 I’m currently learning phaser.js(PWA's).<br/>
+- 🌱 I’m currently learning phaser.js.<br/>
 
 <h1>Technical Skills 🛠</h1>
 
