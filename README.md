@@ -2,13 +2,13 @@
 
 ---
 <p align="center">
-<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Developer;%20Java-script%20|%20React-Js%20|%20Node-js%20Enthusiast%20;Aspiring+Learner&center=true&width=500&height=50"></a>
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Developer;Java-script%20|%20React-Js%20|%20Node-js%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
----
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=19442177)](https://stackoverflow.com/users/19442177/vaishal-parikh) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=vaishalparikh"/>|
 |---|---|
 
+---
  
 - 👨‍🎓I am Vaishal Parikh, currently embarking on my engineering journey from  Charusat University Changa , Gujarat.<br/>
 - 💻I am a **full-stack web developer** as well as **Competitive Programmer**<br/>
