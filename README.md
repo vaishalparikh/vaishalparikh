@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Developer;Java-script%20|%20React-Js%20|%20Node-js%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Developer;%20Java-script%20|%20React-Js%20|%20Node-js%20Enthusiast%20;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 ---
 
