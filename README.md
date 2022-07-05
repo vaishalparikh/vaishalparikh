@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://unrivaled-meringue-82d9e8.netlify.app/">Vaishal Parikh</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 ---
-
-<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+<p align="center">
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Developer;Java-script%20|%20React-Js%20|%20Node-js%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-
 ---
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=19442177)](https://stackoverflow.com/users/19442177/vaishal-parikh) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=vaishalparikh"/>|
