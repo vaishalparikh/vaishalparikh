@@ -8,8 +8,7 @@
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=19442177)](https://stackoverflow.com/users/19442177/vaishal-parikh) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=vaishalparikh"/>|
 |---|---|
- 
- ---
+
  
 - 👨‍🎓I am Vaishal Parikh, currently embarking on my engineering journey from  Charusat University Changa , Gujarat.<br/>
 - 💻I am a **full-stack web developer** as well as **Competitive Programmer**<br/>
