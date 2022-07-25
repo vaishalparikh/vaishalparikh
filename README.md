@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank" href="https://unrivaled-meringue-82d9e8.netlify.app/">Vaishal Parikh</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://www.vaishalparikh.tech/">Vaishal Parikh</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 
 ---
 <p align="center">
