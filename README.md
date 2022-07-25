@@ -50,7 +50,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=vaishalparikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false"></img>
 </div>
 
-## 🌐 Socials :  
+<h1>🌐 Socials :</h1>
 <div align="center">
  <a href="https://www.linkedin.com/in/vaishalparikh/ target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -70,7 +70,7 @@
 
 </div>
 
-### Recent Projects 👨‍💻
+<h1>💻 Recent Projects :</h1>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishalparikh&repo=BMI_Calculator&show_icons=true&theme=great-gatsby"> 
