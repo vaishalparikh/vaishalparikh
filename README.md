@@ -5,10 +5,8 @@
 <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;MERN+Developer;%20Java-script%20|%20React-Js%20|%20Node-js%20Enthusiast%20;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=19442177)](https://stackoverflow.com/users/19442177/vaishal-parikh) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=vaishalparikh"/>|
-|---|---|
 
----
+ <h1> 💫 About Me :</h1>
  
 - 👨‍🎓I am Vaishal Parikh, currently embarking on my engineering journey from  Charusat University Changa , Gujarat.<br/>
 - 💻I am a **full-stack web developer** as well as **Competitive Programmer**<br/>
@@ -19,7 +17,7 @@
 - 🔭 I’m currently working on Frontend Developer.<br/>
 - 🌱 I’m currently learning phaser.js.<br/>
 
-<h1>Technical Skills 🛠</h1>
+<h1>💻 Tech Stack :</h1>
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,11 +41,16 @@
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
+# 📊 GitHub Stats:
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=vaishalparikh&show_icons=true&theme=cobalt"></img>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishalparikh&theme=dark&hide_border=false"></img>
 </div>
 
-## Connect with me  
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=vaishalparikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false"></img>
+</div>
+
+## 🌐 Socials :  
 <div align="center">
  <a href="https://www.linkedin.com/in/vaishalparikh/ target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
