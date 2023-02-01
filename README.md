@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: 0xvaishal](https://img.shields.io/twitter/follow/0xvaishal?style=social)](https://twitter.com/0xvaishal)
-[![Linkedin: vaishalparikh](https://img.shields.io/badge/-vrajgohil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishalparikh/)](https://www.linkedin.com/in/vaishalparikh/)
+[![Linkedin: vaishalparikh](https://img.shields.io/badge/-vaishalparikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishalparikh/)](https://www.linkedin.com/in/vaishalparikh/)
 [![GitHub vaishalparikh](https://img.shields.io/github/followers/vaishalparikh?label=follow&style=social)](https://github.com/vaishalparikh)
 
 
