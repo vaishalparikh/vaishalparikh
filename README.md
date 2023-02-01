@@ -5,7 +5,7 @@
 
 [![Twitter: 0xvaishal](https://img.shields.io/twitter/follow/0xvaishal?style=social)](https://twitter.com/0xvaishal)
 [![Linkedin: vaishalparikh](https://img.shields.io/badge/-vaishalparikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishalparikh/)](https://www.linkedin.com/in/vaishalparikh/)
-[![GitHub vaishalparikh](https://img.shields.io/github/followers/vaishalparikh?label=follow&style=social)](https://github.com/vaishalparikh)
+[![GitHub vaishalparikh](https://img.shields.io/github/followers/vaishalparikh?label=vaishalparikhvaishalparikh&style=social)](https://github.com/vaishalparikh)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
