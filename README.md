@@ -15,6 +15,7 @@ Widget build(BuildContext context){
     return Vaishal(
         gender: 'male',
         code: ['C','HTML','CSS','Java','Python','Javascript','Solidity'],
+        framework: ['React.js','Next.js','Vue.js','Node.js','Express.js'],
         tools: ['VS Code','GCP','Remix','Figma'],
     );
 }
